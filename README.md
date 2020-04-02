@@ -1,6 +1,10 @@
 # AVDC_Player
  配合AVDC的简易播放器，兼容CLI-3.0、GUI-3.93及以后版本。双击播放、鼠标悬停显示信息。<br><br>
  
+### 截图
+[封面图](https://www.s2tu.com/images/2020/04/02/AVDC_Player_postere637510ce3c4823b.png)<br>
+[缩略图](https://www.s2tu.com/images/2020/04/02/AVDC_Player_thumb2828697cbd5b7d9b.png)<br>
+
 ### 参数说明
 * pic_type(显示图片种类): poster or thumb <br>
     * poster: 封面图; thumb: 缩略图 <br>
