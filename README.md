@@ -2,7 +2,6 @@
 <a title="Hits" target="_blank" href="https://github.com/moyy996/avdc_player"><img src="https://hits.b3log.org/moyy996/AVDC_Player.svg"></a>
 ![](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square)
 ![](https://img.shields.io/github/downloads/moyy996/avdc_player/total.svg?style=flat-square)
-![](https://img.shields.io/github/license/moyy996/avdc_player.svg?style=flat-square)
 ![](https://img.shields.io/github/release/moyy996/avdc_player.svg?style=flat-square)
 ![](https://img.shields.io/badge/Python-3.7-yellow.svg?style=flat-square&logo=python)<br>
  配合AVDC的简易播放器，兼容CLI-3.0、GUI-3.93及以后版本。双击播放、鼠标悬停显示信息。<br><br>
